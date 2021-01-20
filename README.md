@@ -7,7 +7,7 @@ Once the fork has completed, at the top of the repository page, you should now s
 
 First, open LICENSE, and click on the pencil icon to edit it. Change "Bl-MSCH-C220-S21" to your full name. Press the "Commit Changes" button at the bottom of the page.
 
-The next step is to create an account on [gamedev.StackExchange.com](https://gamedev.stackexchange.com/). After creating your account and logging in, tap the profile icon in the header. The URL for the page should be in following format: https://gamedev.stackexchange.com/users/[user number]/[username]. Note the user number for use later in this assignment.
+The next step is to create an account on [gamedev.StackExchange.com](https://gamedev.stackexchange.com/). After creating your account and logging in, tap the profile icon in the header. The URL for the page should be in following format: `https://gamedev.stackexchange.com/users/[user number]/[username]`. Note the user number for use later in this assignment.
 
 The following software needs to be installed on your computer:
 
